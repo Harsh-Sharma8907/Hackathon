@@ -454,6 +454,9 @@ p {
 	border: 7px solid crimson;
 	z-index: -1;
 }
+.about-img:hover{
+	transform: scale(1.1);
+}
 /* End About Section */
 
 /* contact Section */
